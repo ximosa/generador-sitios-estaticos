@@ -6,7 +6,7 @@ Si alguna vez ha tenido que hacer un cambio en cada encabezado en un sitio web t
 
 <ul style="background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 16px; margin-bottom: 16px; margin-top: 0px; padding-left: 2em;">
 <li style="box-sizing: border-box;"><a href="https://sergey.cool/#get-started" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;">Lea la guía de inicio</a></li>
-<li style="box-sizing: border-box; margin-top: 0.25em;"><a href="https://sergey.cool/slots/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; outline-width: 0px;"><span style="box-sizing: border-box; vertical-align: inherit;">Explicación de tragamonedas</span></a></li>
+<li style="box-sizing: border-box; margin-top: 0.25em;"><a href="https://sergey.cool/slots/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; outline-width: 0px;"><span style="box-sizing: border-box; vertical-align: inherit;">Explicación</span></a></li>
 <li style="box-sizing: border-box; margin-top: 0.25em;"><a href="https://sergey.cool/options/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;">Opciones de línea de comando</a></li>
 </ul>
 
@@ -20,6 +20,6 @@ npm run dev
 
 npm start
 
-Creara sus archivos de producción en la carpeta public
+# Creara sus archivos de producción en la carpeta public
 
 Puede subir su carpeta publica a https://www.netlify.com/ de forma gratuita y tendra listo su html estatico fácil de manejar.
