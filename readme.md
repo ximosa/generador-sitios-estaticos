@@ -11,8 +11,15 @@ Si alguna vez ha tenido que hacer un cambio en cada encabezado en un sitio web t
 </ul>
 
 
-# Construye el sitio
-$ sergey
+# Construye el sitio,necesita node js y npm instalador de paquetes..descargue los archivos en su carpeta local y realize los siguientes pasos
+npm install sergey
 
-# Ejecuta Sergey en modo dev 
-$ sergey --watch
+npm install
+
+npm run dev
+
+npm start
+
+Creara sus archivos de producción en la carpeta public
+
+Puede subir su carpeta publica a https://www.netlify.com/ de forma gratuita y tendra listo su html estatico fácil de manejar.
